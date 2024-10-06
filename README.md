@@ -1,2 +1,1 @@
-# Collaborators:
-Andrew Liu
+
